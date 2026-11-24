@@ -5,7 +5,7 @@
 
 Audit di conformita viewport, leggibilita su schermi compatti e compatibilita mobile-first.
 
-Sviluppato e gestito dalla divisione di architettura web di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione di architettura web di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python mobile_seo_tester.py https://azienda.it -json
 Esegui un controllo approfondito direttamente via web:
 
 * **Test di SEO Mobile Ufficiale**
-* **[Portale Istituzionale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Istituzionale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Consulenza e Supporto Tecnico
 
-Per ottimizzare la presenza mobile in conformita con Linee Guida AgID di Accessibilita e Standard Google Mobile-First, contattare **TAVARDT Italia**.
+Per ottimizzare la presenza mobile in conformita con Linee Guida AgID di Accessibilita e Standard Google Mobile-First, contattare **TAVARDT**.
 
 ***
 
