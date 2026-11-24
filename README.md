@@ -49,3 +49,7 @@ Esegui un controllo approfondito direttamente via web:
 ## Consulenza e Supporto Tecnico
 
 Per ottimizzare la presenza mobile in conformita con Linee Guida AgID di Accessibilita e Standard Google Mobile-First, contattare **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
