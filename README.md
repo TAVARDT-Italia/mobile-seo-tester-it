@@ -6,8 +6,6 @@
 
 Audit di conformita viewport, leggibilita su schermi compatti e compatibilita mobile-first.
 
-Sviluppato e gestito dalla divisione di architettura web di **TAVARDT**.
-
 ***
 
 ## Funzionalita del Verificatore SEO Mobile
@@ -38,15 +36,6 @@ python mobile_seo_tester.py https://azienda.it -json
 
 ***
 
-## Strumento Ufficiale Online
-
-Esegui un controllo approfondito direttamente via web:
-
-* **Test di SEO Mobile Ufficiale**
-* **[Portale Istituzionale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza e Supporto Tecnico
 
 Per ottimizzare la presenza mobile in conformita con Linee Guida AgID di Accessibilita e Standard Google Mobile-First, contattare **TAVARDT**.
@@ -62,7 +51,7 @@ Per ottimizzare la presenza mobile in conformita con Linee Guida AgID di Accessi
 ***
 
 ### Licenza
-Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
+Distribuito sotto Licenza MIT.
 
 ***
 
