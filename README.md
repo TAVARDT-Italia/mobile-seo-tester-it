@@ -2,6 +2,7 @@
 
 [![Test SEO Mobile](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/it/test-seo-mobile-google/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit di conformita viewport, leggibilita su schermi compatti e compatibilita mobile-first.
 
@@ -57,6 +58,11 @@ Per ottimizzare la presenza mobile in conformita con Linee Guida AgID di Accessi
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
 
 ***
 
